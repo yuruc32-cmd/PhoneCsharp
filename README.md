@@ -12,3 +12,20 @@
 這次專案不僅讓我熟悉了Windows Forms的各種控制項使用，還加強了我對**事件驅動程式設計**的理解。同時，透過多功能整合的過程，我提升了程式邏輯規劃與問題解決的能力，也更加體會到**使用者介面設計與操作便利性**的重要性。未來如果要開發更完整的應用程式，我能更清楚地規劃功能架構、模組分工與使用者互動流程。
 
 總結來說，這個專案是一次非常實用的程式設計練習，它結合了文字處理、計算邏輯與表單操作，也鍛鍊了我對事件驅動與多功能程式整合的能力。
+
+執行畫面
+
+<img width="480" height="867" alt="image" src="https://github.com/user-attachments/assets/7edd75f1-5307-4dae-a9c7-36b4d087ddb8" />
+
+<img width="469" height="858" alt="image" src="https://github.com/user-attachments/assets/bf0fa567-da1d-4054-911b-7400021efb70" />
+
+<img width="464" height="771" alt="image" src="https://github.com/user-attachments/assets/d68fa220-2d9b-4b09-abd2-4360930662f7" />
+
+<img width="461" height="861" alt="image" src="https://github.com/user-attachments/assets/93c77002-5403-43ed-b5d6-b350656c7063" />
+
+
+
+<img width="467" height="772" alt="image" src="https://github.com/user-attachments/assets/46c712a1-e858-438d-8354-b1ee8cd5babf" /><img width="466" height="780" alt="image" src="https://github.com/user-attachments/assets/c4334339-b8ac-4ae2-94ec-bc5c08541c98" />
+
+
+
